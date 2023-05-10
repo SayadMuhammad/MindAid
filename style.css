@@ -168,8 +168,9 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
    }
    
    .paragraph-tiny {
-     font-size: 12px;
+     font-size: 13px;
      line-height: 20px;
+     margin-bottom: 3.4px;
    }
    
    .paragraph-bigger {
