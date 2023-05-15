@@ -216,6 +216,7 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
      padding: 16px 35px;
      font-size: 14px;
      line-height: 26px;
+     margin-top: 10px;
    }
    
    .button.cc-jumbo-button.cc-jumbo-white {
@@ -251,7 +252,8 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
    .button.cc-white-button:active {
      background-color: hsla(0, 0%, 100%, 0.9);
    }
-   
+
+
    .label {
      margin-bottom: 10px;
      font-size: 12px;
